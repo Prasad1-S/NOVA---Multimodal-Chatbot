@@ -25,7 +25,7 @@ Nova is a powerful multimodal AI assistant that seamlessly integrates vision, sp
 ### Team Name:  
 'DuoMinds'
 ### Team Members:  
-- Ananya Ghosh (GitHub - Ananya21-G  / LinkedIn - / Frontend, Backend )  
+- Ananya Ghosh (GitHub - Ananya21-G  / LinkedIn -https://www.linkedin.com/in/ananya-ghosh-13aa6627b/ / Frontend, Backend )  
 - Subhojeet Prasad (GitHub - Prasad1-S / LinkedIn -https://www.linkedin.com/in/prasad-subhojeet-194351359/ / Frontend, Backend, Deployement)
 
 ### Your Approach:  
